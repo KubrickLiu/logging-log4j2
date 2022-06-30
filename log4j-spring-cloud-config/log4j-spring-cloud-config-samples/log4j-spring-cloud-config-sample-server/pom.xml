@@ -34,7 +34,7 @@
 
     <!-- maven plugin versions -->
     <maven.checkstyle.version>3.0.0</maven.checkstyle.version>
-    <spotbugs.plugin.version>4.0.4</spotbugs.plugin.version>
+    <spotbugs.plugin.version>4.7.0.0</spotbugs.plugin.version>
     <maven.google.code.findbugs.version>3.0.2</maven.google.code.findbugs.version>
     <maven.google.code.findbugs.findbugs.version>3.0.1</maven.google.code.findbugs.findbugs.version>
     <maven.jacoco.version>0.8.6</maven.jacoco.version>
