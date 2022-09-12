@@ -281,7 +281,7 @@
     <activemq.version>5.16.2</activemq.version>
     <!-- Allow Clirr severity to be overriden by the command-line option -DminSeverity=level -->
     <minSeverity>info</minSeverity>
-    <jctoolsVersion>3.3.0</jctoolsVersion>
+    <jctoolsVersion>4.0.1</jctoolsVersion>
     <junitVersion>4.13.2</junitVersion>
     <junitJupiterVersion>5.8.2</junitJupiterVersion>
     <junitPioneerVersion>1.5.0</junitPioneerVersion>
